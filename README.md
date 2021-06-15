@@ -14,8 +14,6 @@
 
 유미봇 이용 관련 문제는 모두 [**미유미#6301**](https://discord.gg/zcVmKATmfu)로 문의 부탁드립니다
 
-유미가 마음에 드신다면, 위쪽의 **\[:sparkling_heart: 하트 추가]**를 눌러주세요!
-
 간단하죠? 그럼, [**공식서버**](https://discord.gg/zcVmKATmfu)에서 보아요!
 
 ###관리/개발 : 미유미#6301
@@ -23,3 +21,5 @@
 
 ![Logo](https://media.discordapp.net/attachments/831816015926001664/849154226080186388/ume2.png?width=692&height=328)
 >#####서버에 들어오시면 더 많은 디자인들을 보실 수 있습니다 [ Copyright by 로션#8557, 미유미#6301 ]
+
+>###### UME BOT COPYRIGHT BY 미유미#6301, ALL RIGHTS RESERVED
