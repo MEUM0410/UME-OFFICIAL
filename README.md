@@ -16,10 +16,9 @@
 
 간단하죠? 그럼, [**공식서버**](https://discord.gg/zcVmKATmfu)에서 보아요!
 
-###관리/개발 : 미유미#6301
->####디자이너 : Rotion#8557, 한슬#8348
+### 관리/개발 : 미유미#6301
+>#### 디자이너 : Rotion#8557, 한슬#8348
 
 ![Logo](https://media.discordapp.net/attachments/831816015926001664/849154226080186388/ume2.png?width=692&height=328)
->#####서버에 들어오시면 더 많은 디자인들을 보실 수 있습니다 [ Copyright by 로션#8557, 미유미#6301 ]
 
 >###### UME BOT COPYRIGHT BY 미유미#6301, ALL RIGHTS RESERVED
